@@ -10,3 +10,5 @@ My third line and changes in second commit
 My fourth line
 
 my testing line
+
+Trying to stash
