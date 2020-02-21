@@ -1,12 +1,6 @@
+my name is file1
 
-My name is File 2.-0 
+im here to check how good am i at git
 
-My name is File1
+im right now testing git revert command.
 
-My second line and second commit
-
-My third line and changes in second commit
-
-My fourth line
-
-my testing line
